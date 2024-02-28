@@ -10,6 +10,16 @@ I am completing the PHP Developer course at Hexlet Programming School. Intereste
 *   ✉️  You can contact me at [smolyakova\_av@mail.ru](mailto:smolyakova_av@mail.ru)
 *   🧠  I'm learning Laravel
 
+### My CV
+
+*   https://cv.hexlet.io/ru/resumes/3449
+
+### Portfolio
+
+*   [Brain Games](https://github.com/Smol-An/php-project-45)
+*   [Difference Calculator](https://github.com/Smol-An/php-project-48)
+*   [Page Analyzer](https://github.com/Smol-An/php-project-9)
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Smol-An" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
