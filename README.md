@@ -13,6 +13,7 @@ I am completing the PHP Developer course at Hexlet Programming School. Intereste
 ### My CV
 
 *   https://cv.hexlet.io/ru/resumes/3449
+*   https://career.habr.com/smolan
 
 ### Portfolio
 
