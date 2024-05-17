@@ -20,6 +20,7 @@ I am completing the PHP Developer course at Hexlet Programming School. Intereste
 *   [Brain Games](https://github.com/Smol-An/php-project-45)
 *   [Difference Calculator](https://github.com/Smol-An/php-project-48)
 *   [Page Analyzer](https://github.com/Smol-An/php-project-9)
+*   [«Менеджер задач»](https://github.com/Smol-An/php-project-57)
 
 ### Skills
 
@@ -30,6 +31,7 @@ I am completing the PHP Developer course at Hexlet Programming School. Intereste
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>   
 
 ### Socials
