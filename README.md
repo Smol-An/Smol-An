@@ -20,7 +20,7 @@ I am completing the PHP Developer course at Hexlet Programming School. Intereste
 *   [Brain Games](https://github.com/Smol-An/php-project-45)
 *   [Difference Calculator](https://github.com/Smol-An/php-project-48)
 *   [Page Analyzer](https://github.com/Smol-An/php-project-9)
-*   [«Менеджер задач»](https://github.com/Smol-An/php-project-57)
+*   [Task Manager](https://github.com/Smol-An/php-project-57)
 
 ### Skills
 
